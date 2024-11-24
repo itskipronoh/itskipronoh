@@ -1,6 +1,8 @@
 <h1 align="center">Hello 🌍, I'm Kipronoh Gideon </h1>
 <h3 align="center">Innovative Developer from Kenya, Creating Impactful Digital Experiences with Skill and Passion</h3>
 
+[![](https://visitcount.itsvg.in/api?id=itskipronoh&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b7611td076fc1itoc1uu9aup8o95528la5rahudmv4481&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 

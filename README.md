@@ -76,6 +76,19 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee?
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itskipronoh&theme=dark&hide_border=true" alt="itskipronoh" />
 </p>
 
+<br>
+<p align="center">
+  <img src="https://github.com/itskipronoh/itskipronoh/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="GUWOP"></center>
+</p>
+<br>
+
+
+<p align="center">
+  <img src="https://github.com/itskipronoh/itskipronoh/blob/main/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+<br>
+
+
 [![](https://visitcount.itsvg.in/api?id=itskipronoh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 

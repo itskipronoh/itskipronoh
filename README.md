@@ -78,7 +78,7 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee?
 
 <br>
 <p align="center">
-  <img src="https://github.com/itskipronoh/itskipronoh/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="GUWOP"></center>
+  <img src="https://github.com/itskipronoh/itskipronoh/blob/main/profile-night-rainbow.svg" alt="GUWOP"></center>
 </p>
 <br>
 
